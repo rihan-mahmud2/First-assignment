@@ -43,3 +43,84 @@
   text-transform: uppercase;
   color: #fff;
 }
+
+/* Donation section starts here */
+
+.donate-section {
+  height: 100vh;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  margin-top: 150px;
+}
+
+.donate-first-part {
+  width: 50%;
+  text-align: center;
+}
+
+.donate-first-part h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.donate-first-part p {
+  margin-bottom: 20px;
+}
+
+.donate-second-part span {
+  display: inline-block;
+  margin: 20px;
+  font-size: 40px;
+  font-weight: 800;
+  padding: 20px;
+}
+
+.border-span {
+  background-color: #ffcccb;
+  border: 1px solid red;
+}
+
+.donate-third-part {
+  display: flex;
+  flex-direction: column;
+}
+
+.donate-third-part input {
+  display: inline-block;
+  width: 400px;
+  height: 50px;
+  border: none;
+
+  padding: 0 10px;
+  border-bottom: 1px solid gray;
+}
+
+.donate-third-part a {
+  text-decoration: none;
+  display: inline-block;
+  width: 160px;
+  margin-top: 15px;
+  background-color: blueviolet;
+  padding: 20px 25px;
+  margin-top: 20px auto;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+/* donation section ends here */
+
+/* donate plane starts here */
+.donate-plan {
+  height: 50vh;
+  width: 90%;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+/* donate plane starts here */
